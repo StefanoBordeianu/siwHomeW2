@@ -122,6 +122,23 @@ div.navy {
 	clear:both;
 	}
 
+div.quadrant{
+    
+	background-color:#B0E2FF;
+	margin-top:0;
+	margin-left:0;
+	margin-right:0;
+	margin-bottom: 0.3em;
+	padding-left:1em;
+	padding-right:1em;
+    padding-bottom:1em;
+	padding-top:0;
+	border:solid;
+	border-width:1px;
+	border-color: navy;
+	float:right;
+}
+
 div.curr {
 	margin-top:0;
 	margin-left:0;
@@ -182,7 +199,23 @@ div.header {
 	border-width:0.1em;
 	border-color:teal;
 	}
+
+div.headerS {
+	padding-left:0.5em;
+	color:white;
+	background-color:teal;
+    text-align: center;
+	font-size:1.em;	
+	margin-top: 1em;
+	margin-bottom: 1.5em;
+	margin-left: 0.1em;
+	border: solid;
+	border-width:0.6em;
+	border-color:teal;
+	}
 	
+
+
 div.footer {
 	font-size: 0.75em;
 	text-align: right
